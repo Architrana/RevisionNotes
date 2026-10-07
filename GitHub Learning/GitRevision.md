@@ -106,13 +106,14 @@ git checkout my-new-feature   # Switch to the new branch
 
 #### 0. Orignal Scenario Before Merge
 
+```mermaid
 gitGraph LR:
    commit id: "A"
    commit id: "B"
    branch feature
    commit id: "C"
    commit id: "D"
-
+```
 
 #### A. Fast-Forward Merge
 Occurs when target branch has no new commits since branching.

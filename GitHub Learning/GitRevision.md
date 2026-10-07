@@ -104,6 +104,16 @@ git checkout my-new-feature   # Switch to the new branch
 
 ### Merge Types & Topologies
 
+#### 0. Orignal Scenario Before Merge
+
+gitGraph LR:
+   commit id: "A"
+   commit id: "B"
+   branch feature
+   commit id: "C"
+   commit id: "D"
+
+
 #### A. Fast-Forward Merge
 Occurs when target branch has no new commits since branching.
 

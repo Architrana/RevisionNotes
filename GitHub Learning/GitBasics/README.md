@@ -48,6 +48,8 @@ graph LR
 git init
 git status
 git add src/*
+git add *      # do not add sytem files or hidden file by default like .gitignore in
+git add .gitignore # for system file you need to specificy there name explicitly
 git commit -m "Initial commit"
 ```
 
@@ -159,3 +161,40 @@ gitGraph
 # Squash merge feature branch into current branch
 git merge --squash <feature-branch>
 ```
+
+## Sync With Origin
+
+### Pushing a Local Repository to a Remote
+
+Follow these steps to map your local repository to a remote repository and ensure your `main` branch matches without issues.
+
+### 1. Ensure your local branch is named `main`
+
+```bash
+git branch -M main
+
+```
+
+* **Verification:** Run `git branch` to confirm that an asterisk `*` appears next to `main`.
+
+---
+
+### 2. Map your local repository to your remote repository URL
+
+```bash
+git remote add origin https://github.com/YourUsername/Your-Repo-Name.git
+
+```
+
+* **Verification:** Run `git remote -v` to ensure the correct fetch and push URLs are listed.
+
+---
+
+### 3. Push your local commits and set the remote tracking branch
+
+```bash
+git push -u origin main. #Once you use -u the first time,  
+                     #you don't need to specify the remote and branch name for future pushes and pulls.
+```
+
+* **Verification:** Run `git status` to confirm your branch is up to date with `origin/main` and no errors are returned.

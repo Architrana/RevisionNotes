@@ -2,6 +2,15 @@
 
 A concise reference guide for essential Git operations, workflows, and branching strategies.
 
+| Section | Topics |
+| :--- | :--- |
+| [Setup & Configuration](#1-setup-configuration) | Installation and global identity |
+| [Core Workflow & Lifecycle](#2-core-workflow-lifecycle) | Basic commands |
+| [History & Inspection](#3-history-inspection) | [Viewing history](#viewing-history), [inspecting differences](#inspecting-differences-git-diff) |
+| [Time Travel & Checkout](#4-time-travel-checkout) | Switching commits and restoring files |
+| [Branching & Merging](#5-branching-merging) | [Branch operations](#branch-operations), [merge types and topologies](#merge-types-topologies) |
+| [Sync With Origin](#sync-with-origin) | [Name the local branch](#1-ensure-your-local-branch-is-named-main), [map the remote](#2-map-your-local-repository-to-your-remote-repository-url), [push commits](#3-push-your-local-commits-and-set-the-remote-tracking-branch) |
+
 ---
 
 ## 1. Setup & Configuration

@@ -126,7 +126,7 @@ gitGraph LR:
    commit id: "D"
 ```
 
-#### A. Fast-Forward Merge
+#### A. Fast-Forward Merge (Default Merge)
 Occurs when target branch has no new commits since branching.
 
 ```mermaid

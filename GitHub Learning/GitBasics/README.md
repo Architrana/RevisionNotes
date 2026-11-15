@@ -207,3 +207,7 @@ git push -u origin main. #Once you use -u the first time,
 ```
 
 * **Verification:** Run `git status` to confirm your branch is up to date with `origin/main` and no errors are returned.
+
+## YouTube Reference
+[How Git Works](https://youtu.be/e9lnsKot_SQ?si=W4vzxz7yHHJ5J_97)
+[Git Merge Vs Rebase](https://youtu.be/0chZFIZLR_0?si=BY6fNy5sRQYi91R5)

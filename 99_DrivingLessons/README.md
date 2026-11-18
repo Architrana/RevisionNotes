@@ -85,17 +85,40 @@ Say :
 
 ---
 
-### Question 10 : Bite überprüfen sie Bremlicht ?
+### Question 10 : Konn Sie Bite überprüfen sie Bremlicht ?
 Question 10 : Please check if the brake lights are working?
  
 Answer :  Check for break lights
  
 ---
 
-### Question 8 : Wie kann man Motorhaube öffnen ?
-Question 8 : How to open the car bonnet or hood ?
+### Question 11 : Wie kann man Motorhaube öffnen ?
+Question 11 : How to open the car bonnet or hood ?
 
 Answer: pull the button with icon <img src="image-7.png" alt="parking light icon" style="width: 30px; vertical-align: middle;" /> 
 
 ---
 
+### Question 12 : Konn Sie Bite überprüfen sie Kennzeichen licht ?
+Question 12 : Please show if license plate lights are working ?
+ 
+Answer :  Just Check for license lights
+ 
+---
+
+
+### Question 13 : Konn Sie Bite überprüfen sie scheibenwischer ?
+Question 13 : Please show if windsheild wiper are working ?
+ 
+Answer :  Just Check for license lights
+ 
+---
+### Question 14 : Wann benutzt man die Warnblinkanlage?
+
+Question 14 : When does someone use warning lights?
+
+Answer :
+- Bei Pannen und Notfällen (Emergencies and Breakdowns): Wenn das Auto liegen bleibt und ein Hindernis darstellt.
+- Am Stauende (Approaching the End of a Traffic Jam): Um den nachfolgenden Verkehr vor einem Stauende oder langsam fahrenden Verkehr zu warnen.
+- Beim Abschleppen (Towing a Vehicle): Sowohl das abschleppende als auch das abgeschleppte Fahrzeug schalten die Warnblinkanlage ein.
+- An Bushaltestellen (Bus Stops): Wenn ein Schulbus oder Linienbus mit eingeschalteter Warnblinkanlage hält, um Fahrgäste ein- oder aussteigen zu lassen.
